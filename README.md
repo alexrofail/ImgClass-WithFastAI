@@ -5,3 +5,5 @@ Just basic image classification for dog/cat pet breeds using Fast.ai library and
 Working on improving accuracy. Obviously you will need your own dataset to run this on your own outside of the FastAI environment. 
 
 Learning Rate finder from Leslie Smith's 2015 paper is the catalyst here. 
+
+Mnist pickle file for matmul NB
